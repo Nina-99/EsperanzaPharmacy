@@ -11,4 +11,4 @@ https://drive.google.com/folderview?id=1k2dAMmjrOXpNrNPmBYqCBL-DjaKSzZhp
 _El software nesecita java y Mysql para la instalación_
 
 ---
-⌨️ realizado de ❤️ por [MarcoNina](marconina999@gmail.com) 😊
+⌨️ realizado de ❤️ por [MarcoNina](https://github.com/Nina-99/) 😊
